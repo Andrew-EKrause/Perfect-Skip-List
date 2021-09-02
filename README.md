@@ -21,7 +21,7 @@ Description...
 6. Open up Eclipse, and type "Perfect-Skip-List" as the name of the workspace. Then click the "launch" button.
 7. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
 8. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
-9. Click the "General" dropdown arrow option. Then double click "Projects from Folder or Archive". This should open a separate Eclipse window.
+9. Double click the "General" dropdown arrow option. Then double click "Projects from Folder or Archive". This should open a separate Eclipse window.
 10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "Pefect-Skip-List-master" folder is stored. 
 11. Select the "Pefect-Skip-List-master" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
