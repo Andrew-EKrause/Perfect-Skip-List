@@ -30,7 +30,7 @@ The perfect skip list is a simple data structure that can help reduce the amount
 11. Select the "Pefect-Skip-List-master" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
 13. Open the project folder that should now be in your workspace by double clicking it. Then open the "(default package)" folder by double clicking it.
-14. Next, open the "PerfectSkipList.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse. The output should consist of five tests, which were used to ensure that the perfect skip list structure was functioning properly.
+14. Next, open the "PerfectSkipList.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program should run, and you should see output in the console within Eclipse. The output should consist of five tests, which were used to ensure that the perfect skip list structure was functioning properly.
 
 ## Command Line
 1. First, make sure that you have your terminal open. Information about your terminal can be found here:<br/>
