@@ -25,8 +25,8 @@ Description...
 10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "Pefect-Skip-List-master" folder is stored. 
 11. Select the "Pefect-Skip-List-master" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
-13. Open the project folder that should now be in your workspace by double clicking it. Then open the "src" folder by double clicking it and then the "(default package)" folder by double clicking it.
-14. Next, open the "PerfectSkipList.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse. The output should consist of a textual representation of the perfect skip list data structure.
+13. Open the project folder that should now be in your workspace by double clicking it. Then open the "(default package)" folder by double clicking it.
+14. Next, open the "PerfectSkipList.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse. The output should consist of five tests, which were used to ensure that the perfect skip list structure was functioning properly.
 
 ## Command Line
 1. First, make sure that you have your terminal open. Information about your terminal can be found here:<br/>
@@ -40,10 +40,9 @@ Description...
 6. In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "Pefect-Skip-List-master" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
    -Linux and Max: http://mally.stanford.edu/~sr/computing/basic-unix.html<br/>
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
-7. Inside the "Pefect-Skip-List-master" folder on your terminal, navigate into the "src" folder.
-8. Inside of the "src" folder, type the following command: `javac PerfectSkipList.java`. It is important that you include the "c" at the end of "java" (no spaces).
-9. After typing the command above, type this command: `java PerfectSkipList.java`. Do NOT include a "c" at the end of "java" in this command.
-10. After running the command in the previous step, output should be printed out on your terminal window. The output on your terminal window should consist of a textual representation of the perfect skip list data structure.
+7. Inside the "Pefect-Skip-List-master" folder on your terminal, type the following command: `javac PerfectSkipList.java`. It is important that you include the "c" at the end of "java" (no spaces).
+8. After typing the command above, type this command: `java PerfectSkipList.java`. Do NOT include a "c" at the end of "java" in this command.
+9. After running the command in the previous step, output should be printed out on your terminal window. The output on your terminal window should consist of five tests, which were used to ensure that the perfect skip list structure was functioning properly.
 
 <p>&nbsp;</p>
 
